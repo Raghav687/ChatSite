@@ -1,4 +1,4 @@
-// Video tutorial/codealong here: https://youtu.be/fCpw5i_2IYU
+
 
 $( '.friend-drawer--onhover' ).on( 'click',  function() {
   
@@ -6,4 +6,3 @@ $( '.friend-drawer--onhover' ).on( 'click',  function() {
   
 });
 
-// Video tutorial/codealong here: https://youtu.be/fCpw5i_2IYU
