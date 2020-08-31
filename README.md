@@ -11,7 +11,7 @@ This is a front end project given by zomentum as a hiring Assignment 2020
 
 ## Screenshot
 
-![](screenshot.png)
+![](screenshot1.png)
 
 
 ## Contributing
